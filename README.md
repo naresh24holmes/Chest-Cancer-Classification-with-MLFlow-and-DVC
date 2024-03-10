@@ -1,4 +1,6 @@
-End to End Chest-Cancer-Classification-with-MLFlow and DVC
+# End to End Chest-Cancer-Classification-with-MLFlow and DVC
+
+## Project Workflows
 
 Update config.yaml
 
