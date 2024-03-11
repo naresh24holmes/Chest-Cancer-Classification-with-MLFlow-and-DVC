@@ -5,4 +5,8 @@ INCLUDE_TOP: False
 EPOCHS: 20
 CLASSES: 2
 WEIGHTS: imagenet
-LEARNING_RATE: 0.01
+LEARNING_RATE: 0.015
+
+
+# Increasing batch size to 16 x 2 = 32
+# reducing lr to 0.01/sqrt(2) = 0.007
