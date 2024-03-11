@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Naresh/Chest-Cancer-Classification-with-MLFlow-and-DVC/mlruns/0/56e95865898b4aae968d76df01bacddb/artifacts
+end_time: 1710147725190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56e95865898b4aae968d76df01bacddb
+run_name: marvelous-ape-316
+run_uuid: 56e95865898b4aae968d76df01bacddb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710147697680
+status: 3
+tags: []
+user_id: Hari

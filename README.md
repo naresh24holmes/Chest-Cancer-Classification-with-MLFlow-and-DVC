@@ -20,6 +20,8 @@
 
 9. Update the dvc.yaml
 
+10. app.py
+
 ## MF Flow
 
 * ([Document](https://mlflow.org/docs/latest/index.html))

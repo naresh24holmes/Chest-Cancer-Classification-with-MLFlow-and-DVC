@@ -2,11 +2,9 @@ AUGMENTATION: True
 IMAGE_SIZE: [224, 224, 3] # as per VGG 16 model
 BATCH_SIZE: 16
 INCLUDE_TOP: False
-EPOCHS: 20
+EPOCHS: 14
 CLASSES: 2
 WEIGHTS: imagenet
-LEARNING_RATE: 0.015
+LEARNING_RATE: 0.01
 
 
-# Increasing batch size to 16 x 2 = 32
-# reducing lr to 0.01/sqrt(2) = 0.007
