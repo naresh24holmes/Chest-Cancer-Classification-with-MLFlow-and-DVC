@@ -1,4 +1,5 @@
-![image](https://github.com/naresh24holmes/Chest-Cancer-Classification-with-MLFlow-and-DVC/assets/118437678/ee8b18e9-5628-4576-a52a-bd8d2a346024)
+
+![chest](https://github.com/naresh24holmes/Chest-Cancer-Classification-with-MLFlow-and-DVC/assets/118437678/3bad45a7-b721-4dac-9f4a-ec9cebf3f5bf)
 
 
 # End to End Chest-Cancer-Classification-with-MLFlow and DVC
