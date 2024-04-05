@@ -117,9 +117,9 @@ AWS_SECRET_ACCESS_KEY=
 
 AWS_REGION = ap-south-1
 
-AWS_ECR_LOGIN_URI = demo>>  114124452720.dkr.ecr.ap-south-1.amazonaws.com/chest-can
+AWS_ECR_LOGIN_URI = demo>>  114124452720.dkr.ecr.ap-south-1.amazonaws.com/chest-cancer
 
-ECR_REPOSITORY_NAME = chest-can
+ECR_REPOSITORY_NAME = cancer
 
 
 
